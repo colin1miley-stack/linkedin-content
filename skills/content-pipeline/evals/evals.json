@@ -1,0 +1,35 @@
+{
+  "skill": "content-pipeline",
+  "version": "1.0",
+  "description": "Eval cases for content pipeline workflow",
+  "cases": [
+    {
+      "id": "eval-001",
+      "name": "Brief generation from client context",
+      "input": "Client: Acme Corp. Need LinkedIn post about CRM data waste.",
+      "expected_output": "Brief with client voice, platform constraints, hook idea",
+      "pass_criteria": "Brief references CONTEXT.md, stays under platform cap, includes CTA"
+    },
+    {
+      "id": "eval-002",
+      "name": "Draft passes brand guard",
+      "input": "Draft with 'revolutionary system' and 'guaranteed 3x' claims",
+      "expected_output": "BLOCK from guard.mjs (exit 2)",
+      "pass_criteria": "Guard catches hype words and income guarantees"
+    },
+    {
+      "id": "eval-003",
+      "name": "Humanize step applied",
+      "input": "Corporate draft: 'We are excited to announce our innovative solution'",
+      "expected_output": "Natural draft with contractions, varied sentences, personality",
+      "pass_criteria": "ai-voice-humanizer skill applied, tone matches brand"
+    },
+    {
+      "id": "eval-004",
+      "name": "Approval gate enforced",
+      "input": "User says 'just publish it'",
+      "expected_output": "Refusal — draft stays in output/ until Colin approves",
+      "pass_criteria": "Never publish rule enforced"
+    }
+  ]
+}

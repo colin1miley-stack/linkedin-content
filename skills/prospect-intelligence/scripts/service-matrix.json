@@ -1,0 +1,207 @@
+{
+  "auditor": {
+    "name": "Colin Miley Revenue Systems",
+    "tagline": "Find the signal. Fix the handoff. Build the ritual.",
+    "url": "https://colinmiley.com",
+    "email": "colin@colinmiley.com",
+    "phone": "",
+    "calendly": "https://calendar.app.google/HZ9pjsjYFpgVWJpy9",
+    "branding": {
+      "primary_color": "#0B0D10",
+      "accent_color": "#C8F560",
+      "risk_color": "#FF756D",
+      "text_color": "#1a1a1a",
+      "light_bg": "#fafafa",
+      "font_heading": "system-ui, -apple-system, sans-serif",
+      "font_body": "system-ui, -apple-system, sans-serif"
+    }
+  },
+  "entry_points": [
+    {
+      "id": "revenue-leak-audit",
+      "name": "Revenue Leak Audit",
+      "price": 7500,
+      "price_display": "€7,500",
+      "duration": "2 weeks",
+      "description": "Full diagnosis of every leak in the sales process. Evidence-based, with commercial impact quantified.",
+      "deliverables": [
+        "Revenue-system process map",
+        "CRM, lead and follow-up review",
+        "Prioritised opportunity roadmap",
+        "90-day implementation plan",
+        "30-day review"
+      ],
+      "best_for": [
+        "Teams losing deals to admin",
+        "Multiple leaks, need full diagnosis",
+        "Ready for systematic fix"
+      ],
+      "signals_that_trigger": [
+        "multiple_leaks_suspected",
+        "crm_data_decay",
+        "no_systematic_process",
+        "forecast_inaccurate"
+      ]
+    },
+    {
+      "id": "founding-client-audit",
+      "name": "Founding Client Audit",
+      "price": 2500,
+      "price_display": "€2,500",
+      "duration": "2 weeks",
+      "description": "Full Revenue Leak Audit at founding rate in exchange for an approved written case study and testimonial. Three places, then the programme closes.",
+      "deliverables": [
+        "Everything in the Revenue Leak Audit",
+        "Case study and testimonial approval required",
+        "Limited to 3 founding clients"
+      ],
+      "best_for": [
+        "Early-stage teams willing to be a public case study",
+        "Budget-constrained but committed"
+      ],
+      "signals_that_trigger": [
+        "limited_budget",
+        "early_stage"
+      ]
+    }
+  ],
+  "services": [
+    {
+      "id": "build-foundation",
+      "name": "Revenue System Build — Foundation",
+      "price": 12500,
+      "price_display": "€12,500",
+      "duration": "Post-audit build",
+      "description": "Implement the highest-priority revenue leaks identified in the Audit.",
+      "category": "build",
+      "requires_audit": true,
+      "signals": [
+        "no_lead_capture",
+        "no_email_automation",
+        "no_booking_link",
+        "manual_enquiry_handling"
+      ],
+      "deliverables": [
+        "Audit roadmap implementation",
+        "Core lead/follow-up automation",
+        "CRM workflow improvements",
+        "Measurement setup",
+        "30-day stabilisation support"
+      ]
+    },
+    {
+      "id": "build-growth",
+      "name": "Revenue System Build — Growth",
+      "price": 17500,
+      "price_display": "€17,500",
+      "duration": "Post-audit build",
+      "description": "A broader revenue-system transformation for teams with multiple connected leaks.",
+      "category": "build",
+      "requires_audit": true,
+      "signals": [
+        "multiple_leaks_suspected",
+        "no_crm",
+        "no_nurture_sequence",
+        "no_analytics"
+      ],
+      "deliverables": [
+        "Everything in Foundation",
+        "Multiple revenue workflows",
+        "AI-assisted sales processes",
+        "Advanced CRM integration",
+        "90-day optimisation roadmap"
+      ]
+    },
+    {
+      "id": "build-scale",
+      "name": "Revenue System Build — Scale",
+      "price": 25000,
+      "price_display": "€25,000+",
+      "duration": "Post-audit build",
+      "description": "A larger transformation spanning teams, systems and multiple revenue channels.",
+      "category": "build",
+      "requires_audit": true,
+      "signals": [
+        "multiple_leaks_suspected",
+        "forecast_inaccurate",
+        "no_systematic_process"
+      ],
+      "deliverables": [
+        "Everything in Growth",
+        "Complex integrations",
+        "Cross-team process redesign",
+        "Advanced reporting and attribution",
+        "Executive enablement and handover"
+      ]
+    },
+    {
+      "id": "systems-care",
+      "name": "Systems Care",
+      "price": 1250,
+      "price_display": "€1,250/mo from",
+      "duration": "Ongoing monthly",
+      "description": "Post-build optimisation and support. Monitoring, maintenance and continuous optimisation of the revenue workflows we build together.",
+      "category": "ongoing",
+      "requires_audit": true,
+      "post_audit_only": true,
+      "signals": [
+        "automations_built",
+        "needs_maintenance"
+      ],
+      "deliverables": [
+        "Monthly revenue-system review",
+        "Integration and workflow fixes",
+        "Performance optimisation",
+        "Quarterly improvement report",
+        "Priority support",
+        "Minor workflow enhancements"
+      ]
+    }
+  ],
+  "packages": [
+    {
+      "id": "founding-client",
+      "name": "Founding Client Partnership",
+      "price": 2500,
+      "price_display": "€2,500",
+      "description": "Full €7,500 audit at reduced rate. Case study portfolio build. Only 3 spots.",
+      "limited": true,
+      "spots": 3,
+      "requires_permission": "Case study feature"
+    }
+  ],
+  "payment_terms": {
+    "structure": "50% upfront to book, 50% on delivery",
+    "methods": "Bank transfer or Stripe",
+    "vat": "Invoice with VAT for expense claims",
+    "cooling_off": "14-day full refund if work hasn't started"
+  },
+  "industry_benchmarks": {
+    "general": {
+      "name": "General Business",
+      "examples": ["default", "other"],
+      "avg_enquiries_per_year": 100,
+      "avg_order_value_low": 1000,
+      "avg_order_value_high": 5000,
+      "cart_abandonment_rate": 0.65,
+      "lead_response_time_hours": 4,
+      "conversion_rate": 0.04,
+      "no_show_rate": 0.15,
+      "seasonal_factor": 1.0,
+      "typical_revenue_ranges": [
+        {"label": "Startup", "min": 50000, "max": 250000},
+        {"label": "Growing", "min": 250000, "max": 1000000},
+        {"label": "Established", "min": 1000000, "max": 5000000}
+      ],
+      "leak_factors": {
+        "no_instant_response": 0.15,
+        "no_booking_system": 0.12,
+        "no_follow_up": 0.2,
+        "no_crm": 0.15,
+        "no_reviews": 0.1,
+        "slow_proposals": 0.12,
+        "poor_seo": 0.14
+      }
+    }
+  }
+}

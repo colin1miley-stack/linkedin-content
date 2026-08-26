@@ -1,0 +1,4 @@
+﻿File,Where
+**Main script**,`skills/prospect-intelligence/scripts/audit.py`
+**Service matrix (pricing/services)**,`skills/prospect-intelligence/scripts/service-matrix.json`
+**GUI launcher**,`skills/prospect-intelligence/gui.py`

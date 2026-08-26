@@ -1,0 +1,7 @@
+﻿What,Where
+**All outreach history**,`docs/outreach/outreach-tracking.csv`
+**Today's 5 targets + messages**,`memory/2026-08-26.md` (lines 1-260)
+**Scoring system**,`docs/outreach/target-scoring-framework.md`
+**Message templates**,`docs/outreach/linkedin-outreach-rdds.md`
+**Kit sequences/tags**,`docs/registry/KIT-SEQUENCE-REGISTRY.md`
+**Kit API key**,`.env.kit.txt`

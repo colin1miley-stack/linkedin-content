@@ -1,0 +1,35 @@
+{
+  "skill": "linkedin-outreach",
+  "version": "1.0",
+  "description": "Eval cases for LinkedIn outreach system",
+  "cases": [
+    {
+      "id": "eval-001",
+      "name": "Message within connection limit",
+      "input": "Template 1 with name='Sarah O\'Brien', company='TechFlow', topic='hiring post'",
+      "expected_output": "Message under 300 characters",
+      "pass_criteria": "Character count <= 300, personalised, no automation"
+    },
+    {
+      "id": "eval-002",
+      "name": "Declined connection = removed",
+      "input": "Paul Brophy declined connection request",
+      "expected_output": "Removed from active list, no further contact",
+      "pass_criteria": "Rule 6 enforced: declined = removed"
+    },
+    {
+      "id": "eval-003",
+      "name": "Follow-up within 2 hours",
+      "input": "Connection accepted at 14:30, no reply yet",
+      "expected_output": "Follow-up sent by 16:30 same day",
+      "pass_criteria": "Response time <= 2 hours"
+    },
+    {
+      "id": "eval-004",
+      "name": "Tracker updated",
+      "input": "Sent 5 messages today",
+      "expected_output": "All 5 logged in outreach-tracking.csv with status",
+      "pass_criteria": "Every outreach logged with date, name, company, template, status"
+    }
+  ]
+}

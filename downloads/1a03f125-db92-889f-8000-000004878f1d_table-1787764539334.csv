@@ -1,0 +1,4 @@
+﻿What,Where
+**Assessment submissions**,Your email inbox (Formspree `f/xwleoddv`) + ConvertKit Form 9766139
+**No database**,The `STUDIO_LEADS_URL` backend is offline
+**API route**,`ai-revenue-site/app/api/assessment/route.ts`

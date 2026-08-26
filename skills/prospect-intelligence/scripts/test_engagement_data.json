@@ -1,0 +1,39 @@
+{
+  "domain": "flowerpop.ie",
+  "client_name": "Flowerpop Ltd",
+  "client_address": "123 Floral Avenue\nDublin, Ireland",
+  "is_rebuild": true,
+  "platform": {
+    "name": "Florist Touch",
+    "compatible": false
+  },
+  "services": [
+    {"name": "Pipeline Automation", "price_display": "€1,200", "id": "pipeline-automation"},
+    {"name": "AI Sales Assistant", "price_display": "€2,150", "id": "ai-sales-assistant"},
+    {"name": "LinkedIn Meeting Machine", "price_display": "€1,200/mo", "id": "linkedin-meeting-machine"},
+    {"name": "Content Engine", "price_display": "€1,200/mo", "id": "content-engine"}
+  ],
+  "bundle": {
+    "entry_point": {
+      "name": "Revenue System Build - Growth Tier",
+      "price_display": "€7,500"
+    },
+    "entry_price": 7500,
+    "total_implementation": 6750,
+    "is_rebuild": true,
+    "rebuild_price_low": 7500,
+    "rebuild_price_high": 8500
+  },
+  "checks": {
+    "has_shop": true,
+    "has_contact_form": true,
+    "has_booking_link": false,
+    "has_newsletter": true,
+    "has_testimonials": true,
+    "has_blog": false,
+    "has_case_studies": true,
+    "has_chatbot": false,
+    "has_whatsapp": false,
+    "has_google_analytics": true
+  }
+}
