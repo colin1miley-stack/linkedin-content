@@ -68,13 +68,34 @@
 
 ---
 
-## Research Sources
+## Process: Prospect Identification (Updated 2026-08-27)
 
-| Source | Best For |
-|--------|----------|
-| ThinkBusiness.ie | Irish company news, funding rounds |
-| Silicon Republic | Irish tech news, founder interviews |
-| LinkedIn Sales Navigator | Decision-maker search, company insights |
-| Crunchbase | Funding data, company profiles |
-| Company LinkedIn page | Hiring signals, product updates |
-| Founder personal LinkedIn | Pain points, priorities, recent posts |
+### Step 1: Research
+Use ThinkBusiness.ie, Silicon Republic, Crunchbase, LinkedIn Sales Navigator to identify Irish B2B SaaS/tech companies with recent growth signals.
+
+### Step 2: Prospect Intelligence Auditor (MANDATORY)
+Before scoring or drafting messages, run the Auditor on the prospect's website:
+```bash
+cd ~/.kimi_openclaw/workspace/skills/prospect-intelligence/scripts
+python3 audit.py --url https://example.com --output html
+```
+**What it delivers:**
+- Digital footprint scorecard (contact form, booking, chat, pricing, etc.)
+- Social media presence (LinkedIn, X, YouTube, etc.)
+- Platform compatibility (Webflow, WordPress, custom, etc.)
+- Revenue leak assessment with illustrative ranges
+- Recommended service alignment
+
+**Why mandatory:** The Auditor finds specific, verifiable gaps that power the Disrupt and Demonstrate parts of RDDS messages. No auditor = no specific evidence = weak message.
+
+### Step 3: Score
+Apply the scoring matrix below. Use Auditor findings to inform Company Fit, Pain Awareness, and Budget Indicator.
+
+### Step 4: Draft
+Write RDDS-aligned message using Auditor gaps + external research.
+
+### Step 5: Verify
+Run through verification rules. Never cite a number without source.
+
+### Step 6: Log
+Add to outreach-tracking.csv with score, auditor file path, and message status.

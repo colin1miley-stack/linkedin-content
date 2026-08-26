@@ -1,0 +1,21 @@
+{
+  "diary": {
+    "count": 3,
+    "last_ts": "2026-08-27T04:00:39.218879",
+    "last_error": "'text'",
+    "last_day": 2
+  },
+  "compact": {
+    "count": 3,
+    "last_ts": "2026-08-27T04:01:52.124225",
+    "last_error": "'text'",
+    "last_invoke": 1
+  },
+  "stm": {
+    "count": 1,
+    "last_ts": "2026-08-27T04:21:19.204111",
+    "last_sessions": 1,
+    "last_messages": 12,
+    "last_chars": 7313
+  }
+}
