@@ -21,6 +21,16 @@ site: ~/rr-kimi-site/site — LIVE on Vercel (project ai-revenue-site).
  feat/schema-markup branch still open (JsonLd, @graph, FAQ/Breadcrumb,
  llms.txt) — unmerged.
 
+agent-quality: AUDIT-VERIFICATION GATE MANDATED 2026-08-28.
+  Trigger: Agent cited fabricated audit figures (€9.3M, €12.5M) that did
+  not exist in reports, and missed a visible booking form on CitySwift
+  (audit false negative).
+  Rule: Before citing any audit finding in outreach or client content:
+   (1) re-read the raw audit report file, (2) spot-check at least one
+   claim against the live website, (3) never cite "illustrative" figures
+   as measured data, (4) frame audit as "surface-level diagnostic" only.
+  Audit data is a starting point, not gospel. Verification is mandatory.
+
 agent-harness: ~/agent-harness — ACTIVE. Git repo present.
  Commits from 2026-08-17. Task completion tracked via git commits.
 

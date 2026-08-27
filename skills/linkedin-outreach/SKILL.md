@@ -83,6 +83,45 @@ Track every day:
 5. **Log everything in the tracker.** What works, what doesn't, what to iterate.
 6. **If connection request is declined:** Do not follow up. Remove from list. Do not take it personally — many executives don't accept cold connections. Focus on the acceptors.
 
+## Using Audit Data in Outreach
+
+The prospect intelligence auditor (`skills/prospect-intelligence/scripts/audit.py`) generates surface-level diagnostic reports. These are **starting points, not evidence**. Misusing audit data in outreach has caused fabricated figures to be cited (see self-correct/2026-08-28).
+
+### Audit-Verification Gate (MANDATORY)
+
+Before citing any audit finding in a LinkedIn message:
+
+1. **RE-READ** the raw audit HTML file. Do not rely on memory.
+2. **SPOT-CHECK** at least one audit claim against the live website.
+3. **LABEL** clearly: audit figures are "illustrative ranges" not "measured data."
+4. **FRAME** the audit as a "surface-level diagnostic" — never as a forensic finding.
+
+### What the Audit CAN Tell You
+- Whether a website has visible contact forms, chat widgets, or booking systems
+- Whether pricing is public
+- Whether social proof (reviews, testimonials) is present
+- Social media presence
+
+### What the Audit CANNOT Tell You
+- Actual revenue figures or leak amounts for that specific company
+- CRM health or follow-up quality
+- Real response times
+- Whether the sales team is actually struggling
+
+### Safe Ways to Use Audit Data
+
+✅ **Safe:** "I came across CitySwift while researching fast-growing Irish SaaS companies. Impressive traction — €9M ARR at 130% YoY."
+
+❌ **Unsafe:** "I audited your site and found a €9.3M revenue leak." (Fabricated figure + unverified claim)
+
+✅ **Safe:** "Quick question about your inbound funnel — are you finding the demo request volume is converting at the rate you'd expect?"
+
+❌ **Unsafe:** "Your site has no booking system so you're losing €30K/year." (False negative — CitySwift has demo form)
+
+### Rule
+
+**Never cite audit figures as measured data.** The €7,500 Revenue Leak Audit is what produces actual, company-specific quantification. The automated surface scan is a conversation starter only.
+
 ## References
 
 - `references/outreach-tracker.md` — Daily tracking spreadsheet template
