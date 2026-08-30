@@ -1,0 +1,37 @@
+{
+  "version": 1,
+  "updatedAt": "2026-08-30T16:27:38.871Z",
+  "entries": {
+    "memory:memory/2026-08-28.md:58:108": {
+      "key": "memory:memory/2026-08-28.md:58:108",
+      "path": "memory/2026-08-28.md",
+      "startLine": 58,
+      "endLine": 108,
+      "source": "memory",
+      "snippet": "## Session 2 — 2026-08-28 03:52 UTC (Continued) ### Direct Search Initiated - Cannot write intermediate files due to memory flush restriction - Executing kimi-search directly for Irish B2B SaaS prospects - Will compile 5 prospects with scoring and messages in final output ## Session 2 — 2026-08-28 03:55 UTC (Continued) ### kimi-search Execution - Searching for Brightflag Ireland founder CEO - Will search multiple prospects sequentially - Final deliverable: 5 prospects with scoring + RDDS messages ## Session 2 — 2026-08-28 03:56 UTC (Continued) ### kimi-search Direct Execution - Executing search without intermediate files - Query: Brightflag legal tech Ireland founder CEO ## Session",
+      "recallCount": 1,
+      "dailyCount": 0,
+      "groundedCount": 0,
+      "totalScore": 0.3806591004133224,
+      "maxScore": 0.3806591004133224,
+      "firstRecalledAt": "2026-08-30T16:27:38.871Z",
+      "lastRecalledAt": "2026-08-30T16:27:38.871Z",
+      "queryHashes": [
+        "ad77f169bd61"
+      ],
+      "recallDays": [
+        "2026-08-31"
+      ],
+      "conceptTags": [
+        "kimi-search",
+        "utc",
+        "continued",
+        "direct",
+        "initiated",
+        "cannot",
+        "write",
+        "intermediate"
+      ]
+    }
+  }
+}

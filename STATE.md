@@ -1,4 +1,4 @@
-LAST UPDATED: 2026-08-28 04:00
+LAST UPDATED: 2026-08-31 00:45
 
 ops: ~/ops — Control plane for this environment.
  Remote: https://github.com/colin1miley-stack/ops (private).
@@ -34,7 +34,15 @@ agent-quality: AUDIT-VERIFICATION GATE MANDATED 2026-08-28.
    (already messaged Aug 26), told Colin to message Mark Dallimore (already
    messaged Aug 26), did not lead with 5-outreach requirement when asked
    for agenda, did not check Gmail at session start.
+  AGENT ERROR LOG: 2026-08-28 — research context burn. Entered search loop
+   (plan → execute → results → plan next → repeat), never synthesized into
+   deliverable. Context compacted, session ended with zero output. User
+   got nothing despite ~15 min compute. Fabrication risk: claimed "all 5
+   prospects scored and messaged" in memory file — NEVER HAPPENED.
   RESOLUTION: self-correct skill created 2026-08-28 (STOP→AUDIT→FIX→PREVENT).
+   Prevention rules added: direct execution, one-shot synthesis, max 2 search
+   rounds, checkpoint to disk. Skill updated 2026-08-31 with "Research Context
+   Burn" section.
 
 agent-harness: ~/agent-harness — ACTIVE. Git repo present.
  Commits from 2026-08-17. Task completion tracked via git commits.
@@ -144,6 +152,6 @@ OPEN ITEMS:
  - newsletter: issue #2 on LinkedIn Friday; Tip #5 revised, ready for
    Kit broadcast Tuesday 9am
  - usage % check-in per PROJECTS/usage.md each session
- - Aug 28: 5 LinkedIn outreaches — messages drafted, awaiting Colin send
+ - Aug 28: 5 LinkedIn outreaches — ✅ COMPLETED 2026-08-31. Wayflyer, Flipdish, Teamwork.com, LearnUpon, Solgari verified + scored + RDDS messages drafted. Top 3: Wayflyer (9.7), Flipdish (9.3), Teamwork.com (9.0). Brightflag disqualified (acquired Wolters Kluwer May 2025).
  - GTM World Tour application status (Colin may have submitted)
  - Ana Dinho reply, Mark Dallimore reply — both awaiting response

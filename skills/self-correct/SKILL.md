@@ -63,6 +63,29 @@ Add a safeguard so it doesn't happen again:
 | Giving generic instead of specific advice | Read user's actual background |
 | Forgetting humanizer gate | Run humanizer before delivering |
 | Not checking Gmail for replies | Check at session start |
+| **Burning context on research without synthesis** | **Execute search → synthesize immediately → checkpoint to disk** |
+
+## Prevention: Research Context Burn
+
+**Failure mode:** Planning multiple searches, executing them, getting large
+result blocks back, but never synthesizing into a deliverable. Context fills
+up, system compacts/summarizes, and the session ends with zero usable output.
+
+**Why it happens:** Agent enters "explore mode" — search → results → plan
+next search → results → plan next search — without ever stopping to compile.
+
+**Prevention rules:**
+1. **Execute immediately** — when user asks for research, do the search right
+   away, don't plan it first
+2. **One-shot synthesis** — gather all data, then compile the deliverable in
+   a single pass
+3. **Checkpoint to disk** — for complex research, write intermediate findings
+   to a file (e.g., `memory/research-YYYY-MM-DD.md`) so context loss doesn't
+   destroy progress
+4. **Max 2 search rounds** — if you need more than 2 searches, write findings
+   to disk and start a fresh synthesis pass
+5. **Deliver or die** — never end a session with raw search results. Always
+   synthesize into the requested format (scored prospects, RDDS messages, etc.)
 
 ## Output Format
 
