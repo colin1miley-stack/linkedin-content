@@ -1,4 +1,4 @@
-LAST UPDATED: 2026-08-26 20:45
+LAST UPDATED: 2026-08-28 04:00
 
 ops: ~/ops — Control plane for this environment.
  Remote: https://github.com/colin1miley-stack/ops (private).
@@ -30,6 +30,11 @@ agent-quality: AUDIT-VERIFICATION GATE MANDATED 2026-08-28.
    claim against the live website, (3) never cite "illustrative" figures
    as measured data, (4) frame audit as "surface-level diagnostic" only.
   Audit data is a starting point, not gospel. Verification is mandatory.
+  AGENT ERROR LOG: 2026-08-27 — agent told Colin to message Ana Dinho
+   (already messaged Aug 26), told Colin to message Mark Dallimore (already
+   messaged Aug 26), did not lead with 5-outreach requirement when asked
+   for agenda, did not check Gmail at session start.
+  RESOLUTION: self-correct skill created 2026-08-28 (STOP→AUDIT→FIX→PREVENT).
 
 agent-harness: ~/agent-harness — ACTIVE. Git repo present.
  Commits from 2026-08-17. Task completion tracked via git commits.
@@ -80,6 +85,10 @@ rdds: github.com/colin1miley-stack/rdds (private) — ACTIVE (2026-08-25).
 presence: GitHub README pushed (652306e); avatar + bio manual.
  LinkedIn profile + page updated; 3 featured items copy delivered.
  Outbound: Week 4 exam running (10 convos, 3 repeat problem, 1 asks price).
+  Aug 27: Niall O'Gorman — follow-up email sent, relationship established.
+  Aug 28: 5 fresh prospects researched + scored — Brightflag (Ian Nolan),
+   Teamwork (Peter Coppinger), LearnUpon (Brendan Noud), Flipdish (Conor McCarthy),
+   Wayflyer (Aidan Corbett). RDDS messages drafted, ready for Colin to send.
 
 affiliate: PartnerStack Network application PENDING (submitted 2026-08-26,
  colin@colinmiley.com). Kit (ConvertKit) program application submitted,
@@ -105,9 +114,10 @@ fable5: ACTIVE — deployed 2026-08-24.
   references/, evals/)
  Rule: AGENTS.md #10 — inspect first, track findings, verify before done
 
-icm-skills: ACTIVE — 7 skills fully ICM-compliant (2026-08-24).
+icm-skills: ACTIVE — 8 skills fully ICM-compliant (2026-08-28).
  Tier 1: content-pipeline, linkedin-outreach, newsletter-engine,
-         client-memory, daily-briefing, colin-brand-guard, fable5
+         client-memory, daily-briefing, colin-brand-guard, fable5,
+         self-correct (NEW 2026-08-28 — audit-verification + error prevention)
  Template: ~/.kimi_openclaw/workspace/skills/_template/ (for new skills)
  Rule: AGENTS.md #9 — full ICM mandatory for all skills
 
@@ -134,3 +144,6 @@ OPEN ITEMS:
  - newsletter: issue #2 on LinkedIn Friday; Tip #5 revised, ready for
    Kit broadcast Tuesday 9am
  - usage % check-in per PROJECTS/usage.md each session
+ - Aug 28: 5 LinkedIn outreaches — messages drafted, awaiting Colin send
+ - GTM World Tour application status (Colin may have submitted)
+ - Ana Dinho reply, Mark Dallimore reply — both awaiting response
