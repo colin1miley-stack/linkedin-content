@@ -1,21 +1,26 @@
-Date,Name,Company,Title,Status,Notes,Score,Connection_Sent,Message_Sent,Followup_1_Sent,Followup_2_Sent,Reply_Received,Call_Booked,Source
-2026-08-24,Paul Brophy,Electro Automation,Director of Sales,Pending,Connection sent,,,,,,,,
-2026-08-24,Kieran O'Halloran,Fannin Ltd,Sales Director,Pending,Connection sent,,,,,,,,
-2026-08-24,Robert Mitchell,Mitchell & Son Wine Merchants,Sales Director,Pending,Connection sent,,,,,,,,
-2026-08-24,Eddie Byrne,Journey Creative,Sales & Managing Director,Pending,Connection sent,,,,,,,,
-2026-08-24,Ana Dinho,MeAgain,Founder,Accepted,"Connection accepted. Message sent 2026-08-26: intro request, no reply yet.",,,,,,2026-08-26,,
-2026-08-25,Mark Dallimore,Continuous Software,Co-Founder & CRO,Replied,"REPLIED — left company, disputed 40% claim. Recovery message sent 2026-08-26. No reply yet.",,,,,,,,,
-2026-08-25,Niall O'Gorman,MarketSizer,Founder & CEO,Meeting Completed,"30-min virtual coffee 2026-08-27. Niall gave strategic advice on events (GTM World Tour), due diligence, clear goals. Offered to share grant-related resource. Relationship established — warm, advisor dynamic. Re-engage 4-6 weeks.",10,,,,,2026-08-27,2026-08-27,Research
-2026-08-25,Michael Storan,Dataships,Co-Founder & Co-CEO,Sent,Score: 9/10,,,,,,,,
-2026-08-25,Rónán Dowling-Cullen,Bounce Insights,Co-Founder,Sent,Score: 9/10,,,,,,,,
-2026-08-25,Jonathan Legge,&Open,Co-Founder & CEO,Sent,Score: 9/10,,,,,,,,
-2026-08-27,Davor Tremac,Fonoa,CEO & Co-Founder,Sent,"Auditor: fonoa.com-audit-2026-08-27.html. $110M Series C, 1B+ transactions/year, 180+ countries. Key leaks: no instant response, no booking.",23,2026-08-27,2026-08-27,,,,,Auditor + Research
-2026-08-27,Eoin Hinchy,Tines,Founder & CEO,Sent,"Auditor: tines.com-audit-2026-08-27.html. $272M+ raised, $1.125B valuation, $85M ARR. Key leaks: no contact form, no booking, no reviews.",22,2026-08-27,2026-08-27,,,,,Auditor + Research
-2026-08-27,Glenn Weinstein,Cloudsmith,CEO,Sent,"Auditor: cloudsmith.com-audit-2026-08-27.html. €61.5M Series C, 92% team growth. Key leaks: no contact form, no booking, no reviews.",22,2026-08-27,2026-08-27,,,,,Auditor + Research
-2026-08-27,Kealan Lennon,CleverCards,Founder & CEO,Sent,"Auditor: clevercards.com-audit-2026-08-27.html. €28M total funding, 350K users, 92 countries. Key leaks: no contact form, no follow-up, no booking, no reviews.",22,2026-08-27,2026-08-27,,,,,Auditor + Research
-2026-08-27,Donal O'Shea,Deciphex,Founder & CEO,Sent,"Auditor: deciphex.com-audit-2026-08-27.html. $32.3M Series C, ~220 employees, 10× demand quarterly. Key leaks: no instant response, no booking, no follow-up.",20,2026-08-27,2026-08-27,,,,,Auditor + Research
-2026-08-28,Brian O'Rourke,CitySwift,CEO,Ready,"Audit: 88/100 fit. €9.3M revenue leak. €9M ARR, 130%+ YoY growth, 33 team, 112 investors. Booking demo CTA present but weak retargeting.",21,,,,,,,Auditor + Research
-2026-08-28,Peter Burridge,NomuPay,Group CEO,Ready,"Audit: Limited (Cloudflare). $131M raised, 244%+ revenue growth, 101-250 employees, Dublin HQ. Led by seasoned payment execs.",20,,,,,,,Research
-2026-08-28,James Ives,XOCEAN,CEO & Co-Founder,Ready,"Audit: Script error (site issue). $125M+ raised, €115M Jan 2025, autonomous ocean data vessels, B2B sales model. Ex-Qualtrics Head of Europe.",20,,,,,,,Research
-2026-08-28,Robin Prendergast,CreditLogic,Head of Go-To-Market,Ready,"Audit: Limited (403). €8.3M funding, ~40% Irish mortgage market share, intl expansion (Spain), €2.3M seed 2019.",19,,,,,,,Research
-2026-08-28,Alan Coleman,Sweepr (now Plume),Co-Founder,Ready,"Audit: 85/100 fit. €12.5M revenue leak. Acquired by Plume Jan 2026. Dublin-based product leader, now at Plume.",19,,,,,,,Auditor + Research
+Date,Name,Company,Title,Status,Notes,Score,Connection_Sent,Message_Sent,Followup_1_Sent,Followup_2_Sent,Reply_Received,Call_Booked,Source,Message_Type
+2026-08-24,Paul Brophy,Electro Automation,Director of Sales,Pending,Connection sent,,,,,,,,,Connection request + note
+2026-08-24,Kieran O'Halloran,Fannin Ltd,Sales Director,Pending,Connection sent,,,,,,,,,Connection request + note
+2026-08-24,Robert Mitchell,Mitchell & Son Wine Merchants,Sales Director,Pending,Connection sent,,,,,,,,,Connection request + note
+2026-08-24,Eddie Byrne,Journey Creative,Sales & Managing Director,Pending,Connection sent,,,,,,,,,Connection request + note
+2026-08-24,Ana Dinho,MeAgain,Founder,Accepted,"Connection accepted. Message sent 2026-08-26: intro request, no reply yet.",,,,,,2026-08-26,,,Connection request + note
+2026-08-25,Mark Dallimore,Continuous Software,Co-Founder & CRO,Replied,"REPLIED — left company, disputed 40% claim. Recovery message sent 2026-08-26. No reply yet.",,,,,,,,,Connection request + note
+2026-08-25,Niall O'Gorman,MarketSizer,Founder & CEO,Meeting Completed,"30-min virtual coffee 2026-08-27. Niall gave strategic advice on events (GTM World Tour), due diligence, clear goals. Offered to share grant-related resource. Relationship established — warm, advisor dynamic. Re-engage 4-6 weeks.",10,,,,,2026-08-27,2026-08-27,Research,Connection request + note
+2026-08-25,Michael Storan,Dataships,Co-Founder & Co-CEO,Sent,Score: 9/10,,,,,,,,,Connection request + note
+2026-08-25,Rónán Dowling-Cullen,Bounce Insights,Co-Founder,Sent,Score: 9/10,,,,,,,,,Connection request + note
+2026-08-25,Jonathan Legge,&Open,Co-Founder & CEO,Sent,Score: 9/10,,,,,,,,,Connection request + note
+2026-08-27,Davor Tremac,Fonoa,CEO & Co-Founder,Sent,"Auditor: fonoa.com-audit-2026-08-27.html. $110M Series C, 1B+ transactions/year, 180+ countries. Key leaks: no instant response, no booking.",23,2026-08-27,2026-08-27,,,,,Auditor + Research,Connection request + note
+2026-08-27,Eoin Hinchy,Tines,Founder & CEO,Sent,"Auditor: tines.com-audit-2026-08-27.html. $272M+ raised, $1.125B valuation, $85M ARR. Key leaks: no contact form, no booking, no reviews.",22,2026-08-27,2026-08-27,,,,,Auditor + Research,Connection request + note
+2026-08-27,Glenn Weinstein,Cloudsmith,CEO,Sent,"Auditor: cloudsmith.com-audit-2026-08-27.html. €61.5M Series C, 92% team growth. Key leaks: no contact form, no booking, no reviews.",22,2026-08-27,2026-08-27,,,,,Auditor + Research,Connection request + note
+2026-08-27,Kealan Lennon,CleverCards,Founder & CEO,Sent,"Auditor: clevercards.com-audit-2026-08-27.html. €28M total funding, 350K users, 92 countries. Key leaks: no contact form, no follow-up, no booking, no reviews.",22,2026-08-27,2026-08-27,,,,,Auditor + Research,Connection request + note
+2026-08-27,Donal O'Shea,Deciphex,Founder & CEO,Sent,"Auditor: deciphex.com-audit-2026-08-27.html. $32.3M Series C, ~220 employees, 10× demand quarterly. Key leaks: no instant response, no booking, no follow-up.",20,2026-08-27,2026-08-27,,,,,Auditor + Research,Connection request + note
+2026-08-28,Brian O'Rourke,CitySwift,CEO,Ready,"Audit: 88/100 fit. €9.3M revenue leak. €9M ARR, 130%+ YoY growth, 33 team, 112 investors. Booking demo CTA present but weak retargeting.",21,,,,,,,,Auditor + Research,Connection request + note
+2026-08-28,Peter Burridge,NomuPay,Group CEO,Ready,"Audit: Limited (Cloudflare). $131M raised, 244%+ revenue growth, 101-250 employees, Dublin HQ. Led by seasoned payment execs.",20,,,,,,,,Research,Connection request + note
+2026-08-28,James Ives,XOCEAN,CEO & Co-Founder,Ready,"Audit: Script error (site issue). $125M+ raised, €115M Jan 2025, autonomous ocean data vessels, B2B sales model. Ex-Qualtrics Head of Europe.",20,,,,,,,,Research,Connection request + note
+2026-08-28,Robin Prendergast,CreditLogic,Head of Go-To-Market,Ready,"Audit: Limited (403). €8.3M funding, ~40% Irish mortgage market share, intl expansion (Spain), €2.3M seed 2019.",19,,,,,,,,Research,Connection request + note
+2026-08-28,Alan Coleman,Sweepr (now Plume),Co-Founder,Ready,"Audit: 85/100 fit. €12.5M revenue leak. Acquired by Plume Jan 2026. Dublin-based product leader, now at Plume.",19,,,,,,,,Auditor + Research,Connection request + note
+2026-08-31,Aidan Corbett,Wayflyer,CEO,Sent,"€75M ARR (2024), Dublin unicorn, revenue-based financing for e-commerce. 250+ employees. Rapid growth, complex sales process.",9.7,2026-09-01,2026-09-01,,,,,Research,Follow → message
+2026-08-31,Conor McCarthy,Flipdish,CEO,Sent,"€18M ARR (2024), Dublin unicorn, food ordering tech, B2B. 300+ employees. Expanding internationally.",9.3,2026-09-01,2026-09-01,,,,,Research,Connection request + note
+2026-08-31,Brendan Noud,LearnUpon,CEO,Sent,"€30M ARR, 1,300+ customers, cloud LMS. Series A funded, scaling internationally.",9.0,2026-09-01,2026-09-01,,,,,Research,Connection request + note
+2026-08-31,John Colgan,Solgari,CEO,Sent,"Microsoft Inner Circle partner, all-channel communications for Dynamics 365. 46-country reach.",8.5,2026-09-01,2026-09-01,,,,,Research,Follow → message
+2026-08-31,Peter Coppinger,Success.co,CEO,Sent,"Former Teamwork.com CEO ($30M+ ARR bootstrapped). Now building Success.co in EOS space.",8.5,2026-09-01,2026-09-01,,,,,Research,Connection request + note

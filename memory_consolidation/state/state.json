@@ -1,22 +1,22 @@
 {
   "diary": {
-    "count": 9,
-    "last_ts": "2026-08-30T03:59:31.255383",
-    "last_error": "'text'",
-    "last_day": 2,
+    "count": 10,
+    "last_ts": "2026-08-31T03:45:58.620651",
+    "last_error": "HTTP Error 429: Too Many Requests",
+    "last_day": 6,
     "last_skip": "no_sessions_today"
   },
   "compact": {
-    "count": 9,
-    "last_ts": "2026-08-30T04:01:17.124419",
+    "count": 10,
+    "last_ts": "2026-08-31T03:47:24.427215",
     "last_error": "'text'",
     "last_invoke": 1
   },
   "stm": {
-    "count": 4,
-    "last_ts": "2026-08-30T23:59:28.118518",
-    "last_sessions": 19,
-    "last_messages": 410,
-    "last_chars": 30970
+    "count": 6,
+    "last_ts": "2026-09-01T04:13:50.099498",
+    "last_sessions": 5,
+    "last_messages": 132,
+    "last_chars": 12658
   }
 }

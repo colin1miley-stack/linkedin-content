@@ -1,4 +1,4 @@
-LAST UPDATED: 2026-08-31 00:45
+LAST UPDATED: 2026-09-01 05:07
 
 ops: ~/ops — Control plane for this environment.
  Remote: https://github.com/colin1miley-stack/ops (private).
@@ -106,6 +106,14 @@ affiliate: PartnerStack Network application PENDING (submitted 2026-08-26,
  2026-08-27. HeyGen content creation on HOLD per Colin (monthly quota
  consumed by testing) — no HeyGen calls without explicit go.
 
+outreach: 2026-09-01 — 5 LinkedIn messages SENT.
+ Targets: Aidan Corbett (Wayflyer, follow→message), Conor McCarthy (Flipdish,
+  connection+note, 287 chars), Brendan Noud (LearnUpon, connection+note,
+  278 chars), John Colgan (Solgari, follow→message), Peter Coppinger
+  (Success.co, connection+note, 298 chars). Format logged per target.
+  Day-3 and Day-7 follow-up reminders set.
+  Next: Log in outreach-tracking.csv, continue daily 5-outreach rhythm.
+
 brand-guard: ACTIVE — deployed 2026-08-24.
  Canon: ~/ops/BRANDS/colin-main.canon.md (rev 1.0)
         ~/ops/BRANDS/faceless-affiliate.canon.md (rev 1.0)
@@ -153,5 +161,6 @@ OPEN ITEMS:
    Kit broadcast Tuesday 9am
  - usage % check-in per PROJECTS/usage.md each session
  - Aug 28: 5 LinkedIn outreaches — ✅ COMPLETED 2026-08-31. Wayflyer, Flipdish, Teamwork.com, LearnUpon, Solgari verified + scored + RDDS messages drafted. Top 3: Wayflyer (9.7), Flipdish (9.3), Teamwork.com (9.0). Brightflag disqualified (acquired Wolters Kluwer May 2025).
+ - 2026-09-01: 5 LinkedIn messages SENT — Wayflyer (Aidan Corbett), Flipdish (Conor McCarthy), LearnUpon (Brendan Noud), Solgari (John Colgan), Success.co (Peter Coppinger). All format-verified (follow→message vs connection+note). Day-3/7 follow-ups scheduled.
  - GTM World Tour application status (Colin may have submitted)
  - Ana Dinho reply, Mark Dallimore reply — both awaiting response

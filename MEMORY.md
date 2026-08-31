@@ -25,6 +25,11 @@
 
 ## Critical Mistakes to Not Repeat
 
+### Currency Error (2026-09-01)
+- Used USD ($) in outreach to Irish prospect in Dublin
+- **Lesson:** ALL pricing, messaging, and content for Irish market must use EUR (€). Zero exceptions.
+- **Rule:** Every message, proposal, and piece of content is checked for € before delivery.
+
 ### Mark Dallimore Incident (2026-08-25)
 - Cited "40%" claim about Continuous Software without verification
 - Mark replied disputing the figure and revealed he left the company
@@ -64,7 +69,22 @@
 - Sharp, practical, no corporate speak
 - Founder-led, not faceless agency
 
+## LinkedIn Outreach Format Rules
+
+### Connection Types
+| Type | Character Limit | Subject Line | Use When |
+|------|----------------|--------------|----------|
+| Follow → Message | ~2,000+ | ✅ Yes | Can only follow profile |
+| Connection + Note | 300 max | ❌ No | Connection button available |
+
+**Pre-flight check:** Always verify which format applies BEFORE drafting. Connection notes hard-cut at 300 chars — no exceptions.
+
+### Currency Rule (HARD)
+- ALL pricing for Irish market: EUR (€) only
+- NEVER use USD ($) in Irish-facing content
+
 ### What We DON'T Say
+- ❌ USD ($) in any Irish-facing content — always EUR (€)
 - ❌ "Forward Deployed Engineer"
 - ❌ "AI Revenue Systems" (old brand name)
 - ❌ Any unverified claims
