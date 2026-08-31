@@ -83,6 +83,12 @@
 - ALL pricing for Irish market: EUR (€) only
 - NEVER use USD ($) in Irish-facing content
 
+### Timezone Rule (HARD)
+- ALL timestamps must use Europe/Dublin (GMT/BST)
+- System runs Asia/Shanghai (GMT+8) — CONVERT before writing
+- Dublin = GMT+8 minus 7 hrs (BST, Mar-Oct) or 8 hrs (GMT, Nov-Feb)
+- Never write raw system timestamps without conversion
+
 ### What We DON'T Say
 - ❌ USD ($) in any Irish-facing content — always EUR (€)
 - ❌ "Forward Deployed Engineer"
@@ -127,4 +133,4 @@
 
 ---
 
-*Last updated: 2026-08-27*
+*Last updated: 2026-08-31 22:23 (Europe/Dublin)*

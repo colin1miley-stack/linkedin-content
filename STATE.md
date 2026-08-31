@@ -1,4 +1,4 @@
-LAST UPDATED: 2026-09-01 05:07
+LAST UPDATED: 2026-08-31 22:07 (Europe/Dublin, GMT+1/BST)
 
 ops: ~/ops — Control plane for this environment.
  Remote: https://github.com/colin1miley-stack/ops (private).
