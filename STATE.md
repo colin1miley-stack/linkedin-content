@@ -164,3 +164,20 @@ OPEN ITEMS:
  - 2026-09-01: 5 LinkedIn messages SENT — Wayflyer (Aidan Corbett), Flipdish (Conor McCarthy), LearnUpon (Brendan Noud), Solgari (John Colgan), Success.co (Peter Coppinger). All format-verified (follow→message vs connection+note). Day-3/7 follow-ups scheduled.
  - GTM World Tour application status (Colin may have submitted)
  - Ana Dinho reply, Mark Dallimore reply — both awaiting response
+
+## ICM Agent Ecosystem (Activated 2026-09-01)
+
+**LinkedIn Claw** — Content + Newsletter + Social Media Manager
+- Profile: claw-profile.json
+- Prompt: _config/claw-profiles/PROMPT-linkedin-claw.md
+- Skills: icm-ralph-execution, revenue-systems-agency, graphify-icm, intelligent-scraper
+- Workflow: Daily content check, Friday newsletter, weekly review
+- Status: ACTIVE
+
+**Agent Roster:**
+- LinkedIn Content Creator — Posts, carousels, threads
+- Email Marketing Strategist — Newsletter sequences (ConvertKit)
+- SEO Specialist — Evergreen content optimization
+- AEO Foundations Architect — AI visibility, llms.txt
+- AI Citation Strategist — GEO/LLMO optimization
+- Analytics Reporter — Performance tracking
