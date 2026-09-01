@@ -21,8 +21,11 @@
 | 2 | "Stop wasting 8 hours/week on CRM admin" | 7 days after Email 1 | 10172844 | ✅ Published |
 | 3 | "The LinkedIn message that gets replies" | 7 days after Email 2 | 10172846 | ✅ Published |
 | 4 | "The 30-second qualification call" | 7 days after Email 3 | 10172847 | ✅ Published |
+| 5 | "The single-threaded deal is one reorg away from dead" | 7 days after Email 4 | — | ⏳ Drafted |
+| 6 | "Your pipeline says €4M. You'll close €1.2M. Here's why." | 7 days after Email 5 | — | ⏳ Drafted |
+| 7 | "80% of deals die after you send the proposal. Here's the fix." | 7 days after Email 6 | — | ⏳ Drafted |
 
-**Next Needed:** Tips #5–#8 (NOT YET CREATED)
+**Next Needed:** Tips #8+ (NOT YET PLANNED)
 
 ---
 
