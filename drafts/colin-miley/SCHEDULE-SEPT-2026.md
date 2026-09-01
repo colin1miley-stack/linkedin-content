@@ -9,15 +9,15 @@
 
 **Topic:** Tip #5 — The Single-Thread Trap
 **Headline:** The single-threaded deal is one reorg away from dead
-**File:** `drafts/colin-miley/2026-09-05-tip-5-single-thread.md`
 
-**Channels:**
-| Channel | Format | Status |
-|---------|--------|--------|
-| LinkedIn (Colin Miley personal) | Post + image | Drafted |
-| LinkedIn (Revenue Systems) | Post + image | Drafted |
-| Website (colinmiley.com) | Blog post | Drafted |
-| Kit (Email 5 in sequence) | Newsletter email | Drafted — UI setup required |
+**Colin Miley (Personal) — Primary:**
+- File: `drafts/colin-miley/2026-09-05-tip-5-single-thread.md`
+- Format: LinkedIn post + newsletter + blog
+
+**Revenue Systems (Company Page) — Secondary:**
+- File: `drafts/colin-miley/2026-09-05-company-page.md`
+- Options: Poll, Shortform, Carousel, Reshare
+- **Recommended:** Poll (Option A) Friday + Carousel (Option C) Tuesday
 
 ---
 
@@ -25,15 +25,15 @@
 
 **Topic:** Tip #6 — Your Pipeline Is Lying to You
 **Headline:** Your pipeline says €4M. You'll close €1.2M. Here's why.
-**File:** `drafts/colin-miley/2026-09-12-tip-6-pipeline-lying.md`
 
-**Channels:**
-| Channel | Format | Status |
-|---------|--------|--------|
-| LinkedIn (Colin Miley personal) | Post + image | Drafted |
-| LinkedIn (Revenue Systems) | Post + image | Drafted |
-| Website (colinmiley.com) | Blog post | Drafted |
-| Kit (Email 6 in sequence) | Newsletter email | Drafted — UI setup required |
+**Colin Miley (Personal) — Primary:**
+- File: `drafts/colin-miley/2026-09-12-tip-6-pipeline-lying.md`
+- Format: LinkedIn post + newsletter + blog
+
+**Revenue Systems (Company Page) — Secondary:**
+- File: `drafts/colin-miley/2026-09-12-company-page.md`
+- Options: Carousel, Shortform, Discussion Starter, Reshare
+- **Recommended:** Carousel (Option A) Friday + Document repost Tuesday
 
 ---
 
@@ -41,15 +41,15 @@
 
 **Topic:** Tip #7 — The Proposal Graveyard
 **Headline:** 80% of deals die after you send the proposal. Here's the fix.
-**File:** `drafts/colin-miley/2026-09-19-tip-7-proposal-graveyard.md`
 
-**Channels:**
-| Channel | Format | Status |
-|---------|--------|--------|
-| LinkedIn (Colin Miley personal) | Post + image | Drafted |
-| LinkedIn (Revenue Systems) | Post + image | Drafted |
-| Website (colinmiley.com) | Blog post | Drafted |
-| Kit (Email 7 in sequence) | Newsletter email | Drafted — UI setup required |
+**Colin Miley (Personal) — Primary:**
+- File: `drafts/colin-miley/2026-09-19-tip-7-proposal-graveyard.md`
+- Format: LinkedIn post + newsletter + blog
+
+**Revenue Systems (Company Page) — Secondary:**
+- File: `drafts/colin-miley/2026-09-19-company-page.md`
+- Options: Shortform + Visual, Poll, Carousel, Reshare
+- **Recommended:** Shortform + Visual (Option A) Friday + Poll (Option B) Tuesday
 
 ---
 
