@@ -111,7 +111,7 @@
 
 ---
 
-## Kit Newsletter — Published Emails
+## Kit Newsletter — Published + Scheduled
 
 | # | Subject | Kit Email ID | Status |
 |---|---------|--------------|--------|
@@ -119,8 +119,19 @@
 | 2 | "Stop wasting 8 hours/week on CRM admin" | 10172844 | ✅ Published |
 | 3 | "The LinkedIn message that gets replies" | 10172846 | ✅ Published |
 | 4 | "The 30-second qualification call" | 10172847 | ✅ Published |
+| 5 | "The single-threaded deal is one reorg away from dead" | — | ⏳ Drafted (2026-09-05) |
+| 6 | "Your pipeline says €4M. You'll close €1.2M. Here's why." | — | ⏳ Drafted (2026-09-12) |
+| 7 | "80% of deals die after you send the proposal. Here's the fix." | — | ⏳ Drafted (2026-09-19) |
 
-**Next:** Tips #5–#8 (NOT YET CREATED)
+**Next:** Tips #8+ (NOT YET PLANNED)
+
+---
+
+## Content Schedule (September 2026)
+- **5 Sept:** Tip #5 — Single-Thread Trap
+- **12 Sept:** Tip #6 — Pipeline Is Lying
+- **19 Sept:** Tip #7 — Proposal Graveyard
+- All drafted in `drafts/colin-miley/`
 
 ---
 
