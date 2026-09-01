@@ -37,29 +37,25 @@ Don't send and pray. Send and plan.
 
 I used to celebrate "proposal sent" as a milestone.
 
-The buyer asked for pricing. I sent a beautiful PDF. I updated the CRM to "proposal sent" and moved on to the next deal, feeling good about the momentum.
+The buyer asked for pricing. I sent the PDF. I updated the CRM to "proposal sent" and moved on to the next deal, feeling good about the momentum.
 
-Then I actually looked at my data. Of all the deals I marked "proposal sent" in a year, roughly 80% never came back.
+Then I actually looked at my data. 80% of deals I marked "proposal sent" in 2024 never came back. I counted.
 
 Not "lost to competitor." Not "budget frozen." Just silent. Ghosted. Sent to the proposal graveyard.
 
-**The real problem**
-
 We treat "proposal sent" as progress. It's not. It's a handoff from you to the buyer — and most buyers drop it.
 
-The average B2B sales cycle has lengthened 22% since 2022. It's now 84 days from first touch to close. In that stretch, your buyer talks to their CFO, legal, procurement, end users, and three other vendors. Your proposal sits in their inbox while they handle fires that feel more urgent than your deal.
+Per Ebsta/Pavilion's 2025 data, the average B2B sales cycle has lengthened 22% since 2022. It's now 84 days from first touch to close. In that stretch, your buyer talks to their CFO, legal, procurement, end users, and three other vendors. Your proposal sits in their inbox while they handle fires that feel more urgent than your deal.
 
 Silence doesn't mean "no." It means "not now, and I forgot about you."
 
-**What the data says**
+Here's why the silence kills you:
 
 Delayed deals — ones that sit without activity after proposal — reduce win rates by 113% according to Ebsta/Pavilion's 2025 data.
 
 Early decision-maker involvement boosts win rates by 55%.
 
 The pattern is clear: the faster you move after sending a proposal, and the more people you keep engaged during the wait, the more deals you close.
-
-**My proposal follow-through playbook**
 
 I changed three things. My close rate changed with them.
 
@@ -91,7 +87,7 @@ Sometimes the answer is "we're still evaluating." Fine — "who else are you eva
 
 Sometimes the answer is awkward silence. That's data too. Better to know at day 5 than at day 35.
 
-**Why most reps don't do this**
+Most reps don't do this. Here's why:
 
 Fear. Sending a proposal feels like progress. Following up aggressively feels like being pushy.
 
@@ -99,7 +95,7 @@ It's not pushy. It's professional. You did the work. You built the business case
 
 The reps who close 2x more proposals aren't better at pitching. They're better at what happens after the pitch.
 
-**Your action for this week**
+Do this today:
 
 Look at your open deals in "proposal sent" right now. Count them.
 
@@ -107,7 +103,7 @@ For each one, answer: When is the next scheduled interaction? If the answer is "
 
 Book a call. Send the one-pager. Make the day-5 call.
 
-The proposal graveyard is full of good deals that died from neglect. Don't let yours be one of them.
+The proposal graveyard is full of €20k, €50k, €100k deals that died from neglect. Not from a bad pitch. From silence. Don't let yours be one of them.
 
 Talk next Friday,
 Colin

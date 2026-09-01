@@ -44,7 +44,7 @@ The new person didn't know me. Didn't care. The deal died in three weeks without
 
 That's the single-thread trap. One contact. One relationship. One point of failure. And it's the most expensive habit in B2B sales.
 
-**The numbers don't lie**
+**Here's what Gong's data shows**
 
 Gong Labs analyzed 1.8 million B2B deals closed in 2024. Multi-threaded deals — where you actively engage multiple stakeholders throughout the process — had a 130% win-rate lift over single-threaded ones.
 
@@ -53,13 +53,13 @@ Multi-threaded: 42%.
 
 The gap isn't your pitch. It's not your pricing. It's not even your product. It's your contact map.
 
-Gartner's latest research puts the average B2B buying group at 6 to 10 decision-makers. If your entire deal rests on one person carrying your message to the other nine, you're not selling. You're hoping.
+That gap cost me €47k once. I wasn't going to let it happen again.
 
-**What multi-threading actually looks like**
+**I used to think multi-threading meant "cc more people." It isn't.**
 
-I used to think multi-threading meant "cc more people." It's not. It's building direct relationships with distinct roles across the buying committee.
+It's building direct relationships with distinct roles across the buying committee.
 
-Here's my current playbook:
+Here's what I do now, call by call:
 
 **Call 1 — Map the committee**
 "Who else needs to be in the room for this to move?"
@@ -92,7 +92,7 @@ Three contacts minimum. Champion, economic buyer, and one more. Tag them. Engage
 
 The deals that survive reorgs, budget freezes, and priority shifts are the ones with multiple people inside the account who want them to close.
 
-One champion isn't a deal. It's a foothold.
+One champion isn't a deal. It's a foothold. Three is a deal.
 
 Talk next Friday,
 Colin

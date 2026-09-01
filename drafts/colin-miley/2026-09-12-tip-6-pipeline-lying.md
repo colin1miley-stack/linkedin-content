@@ -53,7 +53,7 @@ We closed €1.1M.
 
 The VP blamed "macro headwinds." The CFO blamed the VP. The reps blamed the leads. Everyone had someone to blame except the real culprit: the pipeline was fiction from day one.
 
-**The numbers are brutal**
+**Nineteen percent. That's the number.**
 
 Ebsta and Pavilion's 2025 GTM Benchmarks report analyzed $48 billion in pipeline data across roughly 2,000 revenue teams. The average B2B SaaS win rate fell to 19% in 2025. Down from 29% in 2024.
 
@@ -84,7 +84,7 @@ That 35-point gap is the difference between a board that trusts your number and 
 
 **The Monday hygiene ritual (20 minutes)**
 
-I don't use fancy dashboards. I use a checklist. Every Monday at 9am, I pull three reports:
+I don't use dashboards with 12 charts. I use a checklist with three questions. Every Monday at 9am, I pull three reports:
 
 **1. The stale deal list**
 Deals with no activity in 14+ days. For each one, the rep answers one question: "What's the next concrete step, and when is it happening?"
@@ -113,12 +113,12 @@ Don't ask "Is this deal still alive?" Ask "When did we last hear from them?" and
 
 If the answer to either is vague, the deal is out of commit.
 
-Your forecast is only as good as your worst deal in it. Clean the pipeline, and the number starts telling the truth.
+Clean the pipeline, and the number starts telling the truth. Do it this Monday. Don't wait for the quarter-end panic.
 
 Talk next Friday,
 Colin
 
-P.S. — If your CRM doesn't flag stale deals automatically, create a view for it. Most CRMs can do this in under 5 minutes. If yours can't, that's a CRM problem worth solving.
+P.S. — If your CRM doesn't flag stale deals automatically, create a view for it. Takes 5 minutes in most systems. If yours can't do this, you're flying blind every Monday. And blind forecasts miss.
 
 ---
 
